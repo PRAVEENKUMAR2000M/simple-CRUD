@@ -1,0 +1,24 @@
+{
+    "notes": [
+        {
+            "id": 1,
+            "content": "condition Rendering",
+            "important": true
+        },
+        {
+            "id": 2,
+            "content": "Implementing simple CRUD",
+            "important": false
+        },
+        {
+            "id": 3,
+            "content": "useRef, useReducer",
+            "important": true
+        },
+        {
+            "id": 4,
+            "content": "useEffect, useState",
+            "importand": false
+        }
+    ]
+}
